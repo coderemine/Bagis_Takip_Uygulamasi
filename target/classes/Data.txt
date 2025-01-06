@@ -1,0 +1,40 @@
+0;0;0;a_furkan;0;1234;adminuser;0;0;0
+0;0;0;a_emine;0;1234;adminuser;0;0;0
+0;0;0;a_koray;0;1234;adminuser;0;0;0
+Furkan;Cevik;1234567;furkan;furkan@gmail.com;1234;individualuser;0;0;0
+Koray;Mullaoğlu;456789;koray;koray@gmail.com;1234;individualuser;0;0;0
+Emine;Yiğit;567890;emine;emine@gmail.com;1234;individualuser;0;0;0
+Deneme1;Deneme2;678901;deneme;deneme@gmail.com;1234;individualuser;0;0;0
+Kızılay;TR123456789;Kan Bağışı;kızılay;kızılay@gmail.com;12345;instutionaluser;0;0;0
+Afad;TR234567890;Afet Yardımı;afad;afad@gmail.com;12345;instutionaluser;0;0;0
+TEV;TR345678901;Eğitim Yardımı;tev;tev@gmail.com;12345;instutionaluser;0;0;0
+SYDV;TR456789012;Para Yardımı;sydv;sydv@gmail.com;12345;instutionaluser;0;0;0
+TDV;TR567890123;Kurban Yardımı;tdv;tdv@gmail.com;12345;instutionaluser;0;0;0
+GBD;TR678901234;Gıda Yardımı;gbd;gbd@gmail.com;12345;instutionaluser;0;0;0
+SKD;TR789012345;Su Kuyusu Yardımı;skd;skd@gmail.com;12345;instutionaluser;0;0;0
+TEMA;TR890123456;Doğa Yardımı;tema;tema@gmail.com;12345;instutionaluser;0;0;0
+KOÇ Vakfı;TR901234567;Proje Yardımı;koç;koc@gmail.com;12345;instutionaluser;0;0;0
+0;0;Kızılay;Sağlık;Kanser;10000;1000000;Kolon kanseri nedeniyle bir vatandaşımız için para toplanmaktadır.;false;donate
+Furkan;Cevik;Kızılay;Sağlık;Kanser;10000;0;FURKAN CEVİK Kanser için para bağışı;false;donate
+0;0;Kızılay;Sağlık;SMA;15000;2000000;SMA hastalığına sahip bir çocuk için para toplanmaktadır.;false;donate
+Furkan;Cevik;Kızılay;Sağlık;SMA;15000;0;SMA için para bağışı;true;donate
+0;0;Afad;Afet;A Yeri İçin Afet Yardımı;40000;10000000;A yerinin hasarlarını karşılamak için para toplanmaktadır.;false;donate
+Furkan;Cevik;Afad;Afet;A Yeri İçin Afet Yardımı;40000;0;FURKAN CEVİK Deprem hasarını onarmak için para bağışı;false;donate
+0;0;Afad;Afet;B Yeri İçin Afet Yardımı;100000;15000000;B yerinin hasarlarını karşılamak için para toplanmaktadır.;false;donate
+Furkan;Cevik;Afad;Afet;B Yeri İçin Afet Yardımı;100000;0;FURKAN CEVİK Deprem dolayısıyla oluşan hasarı düzeltmek için para bağışı;false;donate
+Emine;Yiğit;TEV;Eğitim;Yurt İçi Okul;15000;0;EMİNE YİĞİT Eğitim masraflarının karşılanması için para bağışı;false;donate
+0;0;TEV;Eğitim;Yurt Dışı Okul;20000;400000;Bir öğrencimizin yurt dışı okul masraflarını karşılamak için para toplanmaktadır.;false;donate
+Emine;Yiğit;TEV;Eğitim;Yurt Dışı Okul;20000;0;Eğitim masraflarının karşılanması için para bağışı;true;donate
+0;0;GBD;Gıda;Yemek Yardımı;10000;1000000;İhtiyaç sahibi vatandaşlarımız için gıda yardımı dolayısıyla para toplanmaktadır.;false;donate
+Emine;Yiğit;GBD;Gıda;Yemek Yardımı;10000;0;Yemek yardımı için para bağışı;true;donate
+0;0;SKD;Su Kuyusu;Özel Su Kuyusu;8000;100000;Afrikada su kuyusu açmak için para toplanmaktadır.;false;donate
+Emine;Yiğit;SKD;Su Kuyusu;Özel Su Kuyusu;8000;0;Su kuyusu için para bağışı;true;donate
+0;0;TEMA;Doğa;Ağaç;80000;100000;5000 tane ağaç dikilmesi için para toplanmaktadır.;false;donate
+Koray;Mullaoğlu;TEMA;Doğa;Ağaç;80000;0;KORAY MULLAOĞLU Ağaç dikilmesi için para yardımı;false;donate
+0;0;KOÇ Vakfı;Proje;A Yeri İçin X Projesi;30000;5000000;A yerindeki x projesi için para toplanmaktadır.;false;donate
+Koray;Mullaoğlu;KOÇ Vakfı;Proje;A Yeri İçin X Projesi;30000;0;Proje için para yardımı;true;donate
+0;0;KOÇ Vakfı;Proje;B Yeri İçin Y Projesi;70000;6000000;B yerindeki y projesi için para toplanmaktadır.;false;donate
+Emine;Yiğit;KOÇ Vakfı;Proje;B Yeri İçin Y Projesi;70000;0;EMİNE YİĞİT Proje için para yardımı;false;donate
+mehmet;alt;545145;mehmet1;mehmet@gmail.com;123;individualuser;0;0;0
+0;0;TEV;Eğitim;Yurt İçi Okul;15850;100000;Bir öğrencimizin yurt içi okul masrafını karşılamak için para toplanmaktadır.;false;donate
+mehmet;alt;TEV;Eğitim;Yurt İçi Okul;850;0;MEHMET ALT Yardım;false;donate
